@@ -19,8 +19,8 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 ```
-NAME : YUVARAJ V
-REG NO : 212223230252
+NAME : HARINI G
+REG NO : 212221220017
 ```
 
 ```
