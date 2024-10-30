@@ -19,11 +19,6 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 ```
-NAME : HARINI G
-REG NO : 212221220017
-```
-
-```
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
