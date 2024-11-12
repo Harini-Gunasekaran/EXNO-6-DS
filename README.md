@@ -1,4 +1,4 @@
-# EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
+# EXNO-6 DATA VISUALIZATION USING SEABORN LIBRARY
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
@@ -195,8 +195,6 @@ corr=tips [numeric_cols].corr()
 sns.heatmap(corr, annot=True, cmap="plasma", linewidths=0.5)
 ```
 ![image](https://github.com/user-attachments/assets/dc37ced0-5c02-4971-adc5-54afa7825c01)
-
-
 
 # Result:
 
